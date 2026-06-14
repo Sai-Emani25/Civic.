@@ -1,0 +1,6 @@
+{
+  "name": "Civic Router",
+  "description": "AI routing engine for civic sustainability reports. Classifies local issues, severity, and alerts departments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
